@@ -15,5 +15,4 @@ This is a simple Rock-Paper-Scissors game implemented in JavaScript using the DO
 - HTML
 - CSS
 - JavaScript
-- 
-![Proje Gif'i](/gif/proje.gif)
+
